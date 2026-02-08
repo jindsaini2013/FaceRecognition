@@ -1,4 +1,5 @@
-📸 Personal Photo Curator
+## 📸**Personal Photo Curator**
+
 A Streamlit application that uses Computer Vision to scan Google Drive albums and find photos of you based on a webcam selfie.
 
 🚀 How to Run
