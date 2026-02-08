@@ -1,0 +1,18 @@
+# Google Drive Secrets (DO NOT UPLOAD)
+credentials.json
+token.json
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment
+env/
+venv/
+
+# OS Files
+.DS_Store
+Thumbs.db
